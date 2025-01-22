@@ -5,17 +5,20 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/wagnermuricy/portif-lio/tree/main](https://github.com/wagnermuricy/portif-lio/tree /main)
+- 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/wagnermuricy/portif-lio/tree/main]
 
 - 💬 Me pergunte sobre **Power BI , Python e SQL**
 
 - 📫 Você me acha através do e-mail **wagnermuricy16@gmail.com**
 
-- 📄 Estou em busca da minha primeira oportunidade na área de dados [https://www.linkedin.com/in/wagner-de-jesus-muricy-ab943731a/]
+- 📄 Estou em busca da minha primeira oportunidade na área de dados [https://www.linkedin.com/in/wagner-de-jesus-muricy
+]
 
-<h3 align="left">Conecte-se comigo:</h3>https://www.linkedin.com/in/wagner-de-jesus-muricy-ab943731a/
+<h3 align="left">Conecte-se comigo:</h3>https://www.linkedin.com/in/wagner-de-jesus-muricy
+
 <p align="left">
-<a href="https :https://www.linkedin.com/in/wagner-de-jesus-muricy-ab943731a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/wagner-de-jesus-muricy-ab943731a/" height="30" width="40" /></a>
+<a href="https :https://www.linkedin.com/in/wagner-de-jesus-muricy
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/wagner-de-jesus-muricy-ab943731a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:< /h3>
