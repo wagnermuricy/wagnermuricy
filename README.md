@@ -1,8 +1,6 @@
 -<h1 align="center">olá 👋, eu sou o Wagner</h1>
 <h3 align="center">Apaixonado por ciência de dados e análise de dados</h3>
 
-- 🔭 Atualmente estou trabalhando nesse projeto de análise e análise visualização de dados [relatório de vendas](https://github.com/wagnermuricy/portif-lio/blob/main/relat%C3%B3rio%20de%20vendas.pdf)
-
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis nos meus Repositórios
