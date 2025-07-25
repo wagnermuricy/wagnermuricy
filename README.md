@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/wagnermuricy/portif-lio/tree/main]
+- 👨‍💻 Todos os meus projetos estarão disponíveis nos meus Repositórios
 
 - 💬 Me pergunte sobre **Power BI , Python e SQL**
 
